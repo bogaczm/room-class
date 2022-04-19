@@ -127,3 +127,7 @@ cifs/
 # tmp minio
 tmp/minio/.minio.sys/*
 tmp/minio/work-buddey-emis-etl/*
+
+# data and models
+data/*/*.jpg
+models/*
